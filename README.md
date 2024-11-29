@@ -3,8 +3,12 @@
   <h1>Hi 👋, I'm Hemant Medhsia</h1>
   <h3>Exploring the World of Code with Passion and Precision</h3>
 
-  <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=hemantmedhsia" alt="hemantmedhsia" /></a> </p>
-
+  <p align="center" style="text-align: center;">
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=hemantmedhsia" alt="hemantmedhsia"
+         style="width: 60%; max-width: 600px; border-radius: 15px; box-shadow: 0 5px 10px rgba(0, 0, 0, 0.1);"/>
+  </a>
+</p>
 
   <!-- Stats -->
   <div align="center">
