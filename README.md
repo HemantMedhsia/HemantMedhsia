@@ -18,6 +18,18 @@
       <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HemantMedhsia&theme=aura&hide_border=true&include_all_commits=true&count_private=true&layout=compact" width="36%" />
   </div>
 
+  
+- 🔭 I’m currently working on **CRM SaaS School Application**
+
+- 🌱 I’m currently learning **React Native (App Development)**
+
+- 👨‍💻 All of my projects are available at [misterhemant.tech/projects](misterhemant.tech/projects)
+  
+- 💬 Ask me about **Frontend, Backend, SaaS, Deployment, UI/UX, MERN etc👍**
+
+- 📫 How to reach me **hemantmedhsia@gmail.com**
+
+
   <!-- Tech Stack -->
   ## 💻 Tech Stack ⚡
   <div style="display: flex; flex-direction: column; align-items: center; justify-content: center; gap: 10px;">
