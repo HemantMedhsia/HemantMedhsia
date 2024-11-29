@@ -4,12 +4,10 @@
   <h3>Exploring the World of Code with Passion and Precision</h3>
 
   <!-- Stats -->
-  <div style="display: flex; justify-content: center; flex-direction: column; align-items: center; gap: 20px;">
-    <img src="https://github-readme-stats.vercel.app/api?username=HemantMedhsia&theme=aura&hide_border=true&include_all_commits=true&count_private=true" width="55%" />
-    <div style="display: flex; justify-content: center; gap: 10px;">
+  <div align="center">
+      <img src="https://github-readme-stats.vercel.app/api?username=HemantMedhsia&theme=aura&hide_border=true&include_all_commits=true&count_private=true" width="55%" />
       <img src="https://github-readme-streak-stats.herokuapp.com/?user=HemantMedhsia&theme=aura&hide_border=true" width="50%" />
       <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HemantMedhsia&theme=aura&hide_border=true&include_all_commits=true&count_private=true&layout=compact" width="36%" />
-    </div>
   </div>
 
   <!-- Tech Stack -->
