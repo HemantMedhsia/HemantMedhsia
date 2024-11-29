@@ -4,11 +4,10 @@
 <!-- Stats -->
 <center>
   <img src="https://github-readme-stats.vercel.app/api?username=HemantMedhsia&theme=aura&hide_border=true&include_all_commits=true&count_private=true" width="55%" />
-</br>
+  </br>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=HemantMedhsia&theme=aura&hide_border=true" width="50%" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HemantMedhsia&theme=aura&hide_border=true&include_all_commits=true&count_private=true&layout=compact" width="36%" /> </br>
 </center>
-
 
 <!-- Tech Stack -->
 <div align="center">
@@ -47,27 +46,34 @@
   </div>
 </div>
 
-
-
 <!-- Socials -->
 <div align="center">
-  
-## 🌐 Connect with Me 🍬
-[![HackerRank](https://img.shields.io/badge/HackerRank-1769ff?logo=hackerrank&logoColor=white)](https://www.hackerrank.com/hemantmedhsia) [![GFG](https://img.shields.io/badge/GeeksForGeeks-%237289DA.svg?logo=geeksforgeeks&logoColor=white)](https://auth.geeksforgeeks.org/user/hemantmedhsia) [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/hemantmedhsia) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/hemant_____g) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/hemantmedhsia)
+  <h3>🌐 Connect with Me 🍬</h3>
+  <a href="https://www.hackerrank.com/hemantmedhsia" target="_blank">
+    <img src="https://img.shields.io/badge/HackerRank-1769ff?logo=hackerrank&logoColor=white" alt="HackerRank"/>
+  </a>
+  <a href="https://auth.geeksforgeeks.org/user/hemantmedhsia" target="_blank">
+    <img src="https://img.shields.io/badge/GeeksForGeeks-%237289DA.svg?logo=geeksforgeeks&logoColor=white" alt="GFG"/>
+  </a>
+  <a href="https://facebook.com/hemantmedhsia" target="_blank">
+    <img src="https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white" alt="Facebook"/>
+  </a>
+  <a href="https://instagram.com/hemant_____g" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white" alt="Instagram"/>
+  </a>
+  <a href="https://linkedin.com/in/hemantmedhsia" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
 </div>
-
-
 
 <!-- Snake -->
 <div align="center">
-    
-  ![snake gif](https://github.com/HemantMedhsia/HemantMedhsia/blob/output/github-snake-dark.svg)
+  <img src="https://github.com/HemantMedhsia/HemantMedhsia/blob/output/github-snake-dark.svg" alt="snake gif"/>
 </div>
 
-
-
-<!-- Counter -->
+<!-- Visitor Counter -->
 <div align="center">
-  
-  [![](https://visitcount.itsvg.in/api?id=HemantMedhsia&icon=10&color=6)](https://visitcount.itsvg.in)
+  <a href="https://github.com/HemantMedhsia">
+    <img src="https://komarev.com/ghpvc/?username=HemantMedhsia&style=flat-square&color=brightgreen" alt="Visitor Counter" />
+  </a>
 </div>
