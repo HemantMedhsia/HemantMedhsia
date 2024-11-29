@@ -3,6 +3,9 @@
   <h1>Hi 👋, I'm Hemant Medhsia</h1>
   <h3>Exploring the World of Code with Passion and Precision</h3>
 
+  <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=hemantmedhsia" alt="hemantmedhsia" /></a> </p>
+
+
   <!-- Stats -->
   <div align="center">
       <img src="https://github-readme-stats.vercel.app/api?username=HemantMedhsia&theme=aura&hide_border=true&include_all_commits=true&count_private=true" width="55%" />
