@@ -1,4 +1,4 @@
-<div style="display: flex; flex-direction: column; align-items: center; justify-content: center; height: 100vh; text-align: center;">
+<div align="center">
   <!-- Header -->
   <h1>Hi 👋, I'm Hemant Medhsia</h1>
   <h3>Exploring the World of Code with Passion and Precision</h3>
