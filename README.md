@@ -11,6 +11,7 @@
   </div>
 
   <!-- Tech Stack -->
+  ## 💻 Tech Stack ⚡
   <div style="display: flex; flex-direction: column; align-items: center; justify-content: center; gap: 10px;">
     <div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 10px;">
       <img src="https://img.shields.io/badge/Android-%2320232a.svg?style=for-the-badge&logo=android&logoColor=white" alt="Android">
