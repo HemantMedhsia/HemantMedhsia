@@ -14,7 +14,7 @@
 
 - 🌱 I’m currently learning **React Native (App Development)**
 
-- 👨‍💻 All of my projects are available at [misterhemant.tech/projects](misterhemant.tech/projects)
+- 👨‍💻 All of my projects are available at [misterhemant.tech](misterhemant.tech/project)
   
 - 💬 Ask me about **Frontend, Backend, SaaS, Deployment, UI/UX, MERN etc👍**
 
