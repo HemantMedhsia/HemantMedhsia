@@ -11,13 +11,13 @@
   </a>
 </p>
 
-- 🔭 I’m currently working on **CRM SaaS School Application**
+- 🔭 I’m currently working as **Associate Software Developer** at **@Cognis Solution Pvt. Ltd.**
 
-- 🌱 I’m currently learning **React Native (App Development)**
+- 🌱 I’m currently learning **Java and Related Frameworks**
 
 - 👨‍💻 All of my projects are available at [misterhemant.tech](https://www.misterhemant.tech/project)
   
-- 💬 Ask me about **Frontend, Backend, SaaS, Deployment, UI/UX, MERN etc👍**
+- 💬 Ask me about **Frontend, Backend, SaaS, Deployment, UI/UX, MERN, Java, J2EE, Spring and Spring Boot etc👍**
 
 - 📫 How to reach me **hemantmedhsia@gmail.com**
 
