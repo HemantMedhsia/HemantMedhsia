@@ -25,10 +25,6 @@
   
 - 📫 Reach me at: **hemantmedhsia@gmail.com**
 
-
-
----
-
 <!-- GitHub Stats -->
 ## 📊 GitHub Stats
 
