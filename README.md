@@ -1,6 +1,6 @@
 <div align="center">
   <!-- Header -->
-  <h1>Hi 👋, I'm Hemant Medhsia</h1>
+  <h1>Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px" height="60px"> , I'm Hemant Medhsia</h1>
   <h3>Exploring the World of Code with Passion and Precision</h3>
  <!-- This is paragrap section -->
   
