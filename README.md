@@ -21,7 +21,7 @@
   
 - 💬 Ask me about: **`Frontend` | `Backend` | `SaaS` | `Deployment` | `UI/UX` | `MERN` | `Java`**
   
-- 👨‍💻 Life Hack: Learn new tech 🔥 and share what you have learned 🎉
+- 👨‍💻 Life Hack: **Learn** and **share** what you have **learned** 🎉
   
 - 📫 Reach me at: **hemantmedhsia@gmail.com**
 
