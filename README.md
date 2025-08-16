@@ -79,7 +79,7 @@
   <img src="https://github.com/HemantMedhsia/HemantMedhsia/blob/output/github-snake-dark.svg" alt="GitHub Activity Snake" />
 </div>
 
-<!-- Visitor Counter -->
+<!-- Visitor Counters -->
 <div align="center">
   <a href="https://github.com/HemantMedhsia">
     <img src="https://komarev.com/ghpvc/?username=HemantMedhsia&style=for-the-badge&color=brightgreen" alt="Visitor Counter" />
